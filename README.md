@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am a full stack developer Junior.
+I've loved computers since I was a child.
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
