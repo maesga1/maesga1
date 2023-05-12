@@ -1,4 +1,4 @@
-👋 Hello my name is María
+Hello my name is María 👋 
 
 ### About me:
 I am a Full Stack Developer Junior
