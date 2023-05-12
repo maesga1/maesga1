@@ -1,4 +1,6 @@
-### About me👋
+👋 Hello my name is María
+
+### About me:
 I am a Full Stack Developer Junior
 
 I've loved computers since I was a child.
