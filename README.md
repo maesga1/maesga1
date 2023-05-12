@@ -1,5 +1,5 @@
 ### About me: 👋
-I am a full stack developer Junior.
+(p)I am a full stack developer Junior(p)
 I've loved computers since I was a child.
 🌱 I am currently learning at Factoria F5 Bootcamp.
 <!--
