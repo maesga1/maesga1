@@ -6,6 +6,8 @@ I am a Full Stack Developer Junior
 I've loved computers since I was a child.
 
 🌱 I am currently learning at Factoria F5 Bootcamp.
+
+📫 How to reach me artemys201@gmail.com
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
