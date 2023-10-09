@@ -16,9 +16,9 @@ Continuous Learning: I'm always eager to take on new challenges and expand my kn
 
 ### Contact Information 📫
 
-[Email](mailto:artemys201@hotmail.com): artemys201@hotmail.com
+**Email** (mailto:artemys201@hotmail.com): artemys201@hotmail.com
 
-LinkedIn: [ Connect with me](https://www.linkedin.com/in/maria-espartero/)
+**LinkedIn:** [ Connect with me](https://www.linkedin.com/in/maria-espartero/)
 
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
