@@ -11,7 +11,7 @@ I've loved computers since I was a child.
 
 🌱 I am currently learning at Factoria F5 Bootcamp.
 
-📫 How to reach me  ###  [E-mail](artemys201@gmail.com)/ ### [LinkedIn](https://www.linkedin.com/in/maria-espartero/)
+📫 How to reach me:  artemys201@gmail.com /  ### [LinkedIn](https://www.linkedin.com/in/maria-espartero/)
 
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
