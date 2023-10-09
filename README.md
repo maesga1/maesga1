@@ -12,7 +12,7 @@ I've loved computers since I was a child.
 🌱 I am currently learning at Factoria F5 Bootcamp.
 
 📫 How to reach me:  
-### [Email](mailto:artemys201@hotmail.com) artemys201@hotmail.com
+### [Email](mailto:artemys201@hotmail.com): artemys201@hotmail.com
 
 ### [LinkedIn](https://www.linkedin.com/in/maria-espartero/)
 
