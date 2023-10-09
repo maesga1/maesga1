@@ -16,7 +16,7 @@ Continuous Learning: I'm always eager to take on new challenges and expand my kn
 
 ### Contact Information 📫
 
-**Email** (mailto:artemys201@hotmail.com): artemys201@hotmail.com
+**Email** [](mailto:artemys201@hotmail.com): artemys201@hotmail.com
 
 **LinkedIn:** [ Connect with me](https://www.linkedin.com/in/maria-espartero/)
 
