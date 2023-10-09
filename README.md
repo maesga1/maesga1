@@ -13,7 +13,7 @@ I've loved computers since I was a child.
 
 📫 How to reach me artemys201@gmail.com
 
-[LinkedIn](https://es.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/maria-espartero/)
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
