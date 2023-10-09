@@ -8,7 +8,7 @@ Team Collaboration: Demonstrated solid collaboration skills, ensuring project su
 Problem Solver: Known for my ability to find innovative solutions to challenging problems, leveraging technical skills and creativity.
 
 ### Education 📚
-Current: Factoria F5 Bootcamp, refining my skills and knowledge in Full Stack Development.
+🌱 Current: Factoria F5 Bootcamp, refining my skills and knowledge in Full Stack Development.
 
 ### Interests 🌐
 Passion for Computers: My love for computers began at a young age, driving my enthusiasm for exploring the limitless possibilities of technology.
