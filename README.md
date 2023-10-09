@@ -1,5 +1,7 @@
-**Hello my name is María** 👋 I am always ready to take on new challenges and to further develop my knowledge in this constantly evolving area.
-Throughout my career, I have participated in several software development projects, which has allowed me to acquire a wide knowledge in different programming languages and agile methodologies. 
+**Hello my name is María** 👋 
+I am always ready to take on new challenges and to further develop my knowledge in this constantly evolving area.
+Throughout my career, I have participated in several software development projects,
+which has allowed me to acquire a wide knowledge in different programming languages and agile methodologies. 
 My proactive approach and my ability to work in a team have allowed me to contribute significantly to the success of these projects.
 As a professional in the programming field, I am constantly looking for new opportunities to keep learning and growing. 
 I am excited to take on new challenges and use my technical skills to find innovative solutions to complex problems.
