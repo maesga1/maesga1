@@ -1,24 +1,24 @@
-**Hello my name is María** 👋 
+**María - Full Stack Developer Junior 👩‍💻** 👋 
+### About Me 🌟
+Hello! I'm María, a passionate and dedicated Full Stack Developer Junior. I thrive on challenges and continuously seek to expand my knowledge in this ever-evolving field. With extensive experience in software development projects, I've gained proficiency in various programming languages and agile methodologies. My proactive mindset and strong teamwork skills have played a crucial role in the success of the projects I've been a part of. I'm driven by the desire to learn and grow, always looking for innovative solutions to complex problems.
 
-I am always ready to take on new challenges and to further develop my knowledge in this constantly evolving area.
-Throughout my career, I have participated in several software development projects,
-which has allowed me to acquire a wide knowledge in different programming languages and agile methodologies. 
-My proactive approach and my ability to work in a team have allowed me to contribute significantly to the success of these projects.
-As a professional in the programming field, I am constantly looking for new opportunities to keep learning and growing. 
-I am excited to take on new challenges and use my technical skills to find innovative solutions to complex problems.
+### Experience 💼
+Software Development Projects: Actively contributed to multiple projects, acquiring skills in various programming languages and agile methodologies.
+Team Collaboration: Demonstrated solid collaboration skills, ensuring project success through effective communication and cooperation.
+Problem Solver: Known for my ability to find innovative solutions to challenging problems, leveraging technical skills and creativity.
 
-### About me:
-I am a Full Stack Developer Junior
+### Education 📚
+Current: Factoria F5 Bootcamp, refining my skills and knowledge in Full Stack Development.
 
-I've loved computers since I was a child.
+### Interests 🌐
+Passion for Computers: My love for computers began at a young age, driving my enthusiasm for exploring the limitless possibilities of technology.
+Continuous Learning: I'm always eager to take on new challenges and expand my knowledge to stay ahead in the fast-paced tech industry.
 
-🌱 I am currently learning at Factoria F5 Bootcamp.
-
-📫 How to reach me:  
+### Contact Information 📫
 
 [Email](mailto:artemys201@hotmail.com): artemys201@hotmail.com
 
-[LinkedIn](https://www.linkedin.com/in/maria-espartero/)
+LinkedIn: [ Connect with me](https://www.linkedin.com/in/maria-espartero/)
 
 <!--
 **maesga1/maesga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
